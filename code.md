@@ -24,3 +24,23 @@ Click me to display Date and Time.</button>
 ```sh
 <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 ```
+- Table
+```sh
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+```
