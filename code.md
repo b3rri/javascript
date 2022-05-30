@@ -71,32 +71,38 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 <p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 
 ```
+- Attributes
+```sh
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+```
 
 
 
+- Videos
+```sh
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
+
+```
+
+
+- Audio
+```sh
+<audio controls autoplay>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+</audio>
+
+```
 
 -
 ```sh
 
 
 ```
-
-
-
--
-```sh
-
-
-```
-
-
--
-```sh
-
-
-```
-
-
 
 
 
