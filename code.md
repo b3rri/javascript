@@ -44,3 +44,68 @@ Click me to display Date and Time.</button>
   </tr>
 </table>
 ```
+- List
+```sh
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+```
+
+
+- JavaScript Text
+```sh
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+
+```
+
+
+-
+```sh
+
+
+```
+
+
+
+
+-
+```sh
+
+
+```
+
+
+
+-
+```sh
+
+
+```
+
+
+-
+```sh
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
