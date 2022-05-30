@@ -19,3 +19,8 @@ Write you stuff here.
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 ```
+
+- Image
+```sh
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+```
