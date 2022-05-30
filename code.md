@@ -1,5 +1,17 @@
 # JavaScript
--
+- HTML structure
+
+```sh
+<html>
+<body>
+<h2>My First JavaScript</h2>
+
+Write you stuff here.
+
+</body>
+</html> 
+
+```
 - Button
 
 ```sh
